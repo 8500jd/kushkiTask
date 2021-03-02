@@ -1,0 +1,1698 @@
+{
+    "total": 18,
+    "data": [
+        {
+            "approval_code": null,
+            "approved_transaction_amount": 0,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:04:16.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": null,
+            "processor_name": "Credimatic Processor",
+            "processor_type": "gateway",
+            "recap": null,
+            "request_amount": 16.98,
+            "response_code": "K220",
+            "response_text": "Monto de la transacción es diferente al monto de la venta inicial",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 16.98,
+            "sync_mode": "online",
+            "transaction_id": "1614618255996157074",
+            "transaction_reference": "a151f9f6-e732-49e3-a43f-49f6360c2fb6",
+            "transaction_status": "DECLINED",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 54,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:04:39.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 54,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 54,
+            "sync_mode": "online",
+            "ticket_number": "427391136387702911",
+            "transaction_id": "974998307104301672",
+            "transaction_reference": "a151f9f6-e732-49e3-a43f-49f6360c2fb6",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 1,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:26:29.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 1,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 1,
+            "sync_mode": "online",
+            "ticket_number": "641130628717278932",
+            "transaction_id": "865388050540837175",
+            "transaction_reference": "6c81dada-cfce-429e-a9b0-909b973df942",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 1,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:27:47.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 1,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 1,
+            "sync_mode": "online",
+            "ticket_number": "277733880824251341",
+            "transaction_id": "804659397470095483",
+            "transaction_reference": "eac729ff-a222-47a2-820a-907e3c0efdeb",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": null,
+            "approved_transaction_amount": 0,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:28:30.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor": {
+                "code": "K006",
+                "message": "Transacción declinada."
+            },
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": null,
+            "processor_type": "gateway",
+            "request_amount": 1,
+            "response_code": "577",
+            "response_text": "El token de la transacción no es válido",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 1,
+            "sync_mode": "online",
+            "transaction_id": "864399826953914007",
+            "transaction_reference": "eac729ff-a222-47a2-820a-907e3c0efdeb",
+            "transaction_status": "DECLINED",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:32:27.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "289417946263718276",
+            "transaction_id": "761994327525016022",
+            "transaction_reference": "7291b7d4-4c1c-4578-ad7d-b03b394a7e55",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:34:57.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "066337239703263556",
+            "transaction_id": "562922457157460792",
+            "transaction_reference": "4849ce8a-5dad-4067-910c-de04d97f6738",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:36:32.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "723776765515152120",
+            "transaction_id": "054778698284146043",
+            "transaction_reference": "55661982-cd62-4422-baab-6d4f691cff59",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:37:50.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "459406300816929977",
+            "transaction_id": "448307122444113689",
+            "transaction_reference": "1d028b19-b82a-48bb-b82b-d0d7cddfba20",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:45:04.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "139077669266013601",
+            "transaction_id": "034869399576246492",
+            "transaction_reference": "d6ec2e54-f55a-473b-937d-9ccbe0c5767a",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:47:59.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "243742441582902737",
+            "transaction_id": "206029000324527705",
+            "transaction_reference": "87b34121-013d-4ee5-8397-41cfbbb44059",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:49:39.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "261796906191815635",
+            "transaction_id": "601191763759300730",
+            "transaction_reference": "b50e50dc-73eb-4dbf-8deb-71eaaf624649",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:51:24.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "978234542024238063",
+            "transaction_id": "597220261999253508",
+            "transaction_reference": "33ec1de5-76de-49bf-a0b9-6b9e11e574b3",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T17:53:47.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "456314019808825756",
+            "transaction_id": "796197880093398808",
+            "transaction_reference": "7d9c04a0-5d84-476b-b2ac-0d2f529ce781",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T18:00:20.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "553591207688366513",
+            "transaction_id": "605649571087777593",
+            "transaction_reference": "0338a68f-d2ee-49f2-9697-21be18e2d01e",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 4,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T18:03:22.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 4,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 4,
+            "sync_mode": "online",
+            "ticket_number": "527865816767022467",
+            "transaction_id": "562113337445795039",
+            "transaction_reference": "3ead3238-4be0-4f5e-8dd6-aac6e70e988f",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": "000000",
+            "approved_transaction_amount": 15,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-01T23:19:17.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "credit_type": null,
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "request_amount": 15,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 15,
+            "sync_mode": "online",
+            "ticket_number": "974755291170896880",
+            "transaction_id": "613229187306615072",
+            "transaction_reference": "123dc099-0193-4d44-967a-bd8c257d9af3",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        },
+        {
+            "approval_code": null,
+            "approved_transaction_amount": 0,
+            "bin_card": "545195",
+            "card_holder_name": "Juan",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Colombia",
+            "created": "2021-03-02T00:53:25.000Z",
+            "credential_alias": "Juan Rodriguez",
+            "credential_id": "3c84f5414480437a8c9cf3d6ca260d32",
+            "currency_code": "USD",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "iva_value": 0,
+            "last_four_digits": "5480",
+            "merchant_id": "20000000103243645000",
+            "merchant_name": "Juan Rodriguez",
+            "metadata": {
+                "contractID": "157AB"
+            },
+            "payment_brand": "Mastercard",
+            "processor": {
+                "code": "566",
+                "message": "El token es invalido , o ya fue usado en otra transaccion."
+            },
+            "processor_id": "1000000881947662618816145179940",
+            "processor_name": "Credibanco Processor",
+            "processor_type": "gateway",
+            "recap": null,
+            "request_amount": 1,
+            "response_code": "577",
+            "response_text": "El token de la transacción no es válido",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 1,
+            "sync_mode": "online",
+            "transaction_id": "1614646405681257348",
+            "transaction_reference": "6c81dada-cfce-429e-a9b0-909b973df942",
+            "transaction_status": "DECLINED",
+            "transaction_type": "SALE",
+            "card_country_code": "EC",
+            "card_country": "Ecuador",
+            "payment_method": "card",
+            "masked_credit_card": "545195XXXXXX5480",
+            "security": {
+                "ip": "181.61.204.21"
+            },
+            "string_metadata": "{\"contractID\":\"157AB\"}",
+            "order_details": {
+                "shipping_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "billing_details": {
+                    "country": "Ecuador",
+                    "zip_code": "170402",
+                    "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                    "phone": "+593988734644",
+                    "city": "Quito",
+                    "name": "Diego Cadena",
+                    "region": "Pichincha"
+                },
+                "site_domain": "tuebook.com"
+            },
+            "product_details": {
+                "product": [
+                    {
+                        "quantity": 1,
+                        "price": 6990000,
+                        "id": "198952AB",
+                        "title": "eBook Digital Services",
+                        "sku": "10101042"
+                    },
+                    {
+                        "quantity": 1,
+                        "price": 9990000,
+                        "id": "198953AB",
+                        "title": "eBook Virtual Selling",
+                        "sku": "004834GQ"
+                    }
+                ]
+            }
+        }
+    ]
+}
