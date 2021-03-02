@@ -1,0 +1,101 @@
+{
+    "ticketNumber": "661614646817962109",
+    "details": {
+        "acquirerBank": "Banco Boston",
+        "saleTicketNumber": "427391136387702911",
+        "processorName": "Credibanco Processor",
+        "paymentBrand": "Master Card",
+        "cardType": "credit",
+        "currencyCode": "USD",
+        "country": "Colombia",
+        "responseCode": "000",
+        "subtotalIva": 0,
+        "plcc": false,
+        "lastFourDigits": "5480",
+        "syncMode": "online",
+        "merchantName": "Juan Rodriguez",
+        "credentialAlias": "Juan Rodriguez",
+        "productDetails": {
+            "product": [
+                {
+                    "id": "198952AB",
+                    "quantity": 1,
+                    "title": "eBook Digital Services",
+                    "sku": "10101042",
+                    "price": 6990000
+                },
+                {
+                    "id": "198953AB",
+                    "quantity": 1,
+                    "title": "eBook Virtual Selling",
+                    "sku": "004834GQ",
+                    "price": 9990000
+                }
+            ]
+        },
+        "subtotalIva0": 54,
+        "maskedCardNumber": "545195XXXXXX5480",
+        "merchantId": "20000000103243645000",
+        "approvedTransactionAmount": 54,
+        "metadata": {
+            "contractID": "157AB"
+        },
+        "responseText": "Transacción aprobada",
+        "transactionId": "1614646817961244871",
+        "fullResponse": true,
+        "binCard": "545195",
+        "ivaValue": 0,
+        "iceValue": 0,
+        "issuingBank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+        "token": "b741b46fe4c04d6cb240a5e08c014b1e",
+        "foreignCard": true,
+        "contactDetails": {
+            "firstName": "Diego",
+            "lastName": "Cadena",
+            "phoneNumber": "+593988734644",
+            "documentType": "CC",
+            "documentNumber": "1009283738",
+            "email": "test@test.com"
+        },
+        "processorId": "1000000881947662618816145179940",
+        "requestAmount": 54,
+        "cardHolderName": "Juan",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36",
+        "ip": "181.61.204.21",
+        "transactionStatus": "INITIALIZED",
+        "processorType": "gateway",
+        "created": 1614646818000,
+        "approvalCode": "000000",
+        "tokenType": "transaction-token",
+        "processorMerchantId": "543210",
+        "processorBankName": "0032~BANCO INTERNACIONAL",
+        "credentialId": "3c84f5414480437a8c9cf3d6ca260d32",
+        "transactionType": "VOID",
+        "orderDetails": {
+            "shippingDetails": {
+                "country": "Ecuador",
+                "zipCode": "170402",
+                "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                "phone": "+593988734644",
+                "city": "Quito",
+                "name": "Diego Cadena",
+                "region": "Pichincha"
+            },
+            "billingDetails": {
+                "country": "Ecuador",
+                "zipCode": "170402",
+                "address": "Eloy Alfaro 139 y Catalina Aldaz",
+                "phone": "+593988734644",
+                "city": "Quito",
+                "name": "Diego Cadena",
+                "region": "Pichincha"
+            },
+            "siteDomain": "tuebook.com"
+        },
+        "transactionReference": "bc6b129a-331d-497a-a8fb-9f7821d788eb",
+        "binInfo": {
+            "bank": "BANCO DE LA PRODUCCION S.A. (PRODUBANCO)",
+            "type": "credit"
+        }
+    }
+}
